@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilehty.png"
+  avatar           : "profilehty.jpg"
   name             : "Tianyu Hao"
   pronouns         : # example: "she/her"  
   bio              : "Senior CS undergraduate at NPU, incoming Ph.D. student at SJTU, working on computer vision and image generation."
