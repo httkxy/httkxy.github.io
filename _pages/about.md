@@ -229,22 +229,52 @@ redirect_from:
 </body>
 </html>
 
-I am a senior undergraduate student majoring in Computer Science at the School of Computer Science, [Northwestern Polytechnical University](https://en.nwpu.edu.cn/){:target="_blank"} (NWPU, 985/211/双一流). I will start my PhD at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/){:target="_blank"} (SJTU) in Fall 2026, focusing on **image generation and editing**. **GPA: 3.918/4.1** (rank **8/192**). **CET-6: 559**.
+I am a senior undergraduate student majoring in Computer Science at the School of Computer Science, [Northwestern Polytechnical University](https://en.nwpu.edu.cn/){:target="_blank"} (NWPU, 985/211/双一流). I was recommended for direct PhD admission to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/){:target="_blank"} (SJTU) in October 2025 and will start in Fall 2026, focusing on **image generation and editing**. **GPA: 3.918/4.1** (rank **8/192**). **CET-6: 559**.
 
 Latest News
 ======
 
-- 🎓 **[2026.05]** Recommended for direct PhD admission to **Shanghai Jiao Tong University** (SJTU), School of Computer Science.
-
 - 📝 **[2026.05]** One co-first-author paper submitted to **ECCV 2026** (CCF-B): ICRDrag — In-context Region-based Drag.
+
+- 🏭 **[2025.10 - Present]** Launched the Few-shot Defect Image Generation project as project lead.
+
+- 🏆 **[2025.10]** Awarded the **Tencent Special Scholarship** (the only undergraduate recipient), university-level **Innovation and Entrepreneurship Star** (top 10 campus-wide), and **Outstanding Student & First-Class Scholarship**.
+
+- 🎓 **[2025.10]** Recommended for direct PhD admission to **Shanghai Jiao Tong University** (SJTU); started interning at the [**BCMI Lab**](https://bcmi.sjtu.edu.cn/member.cn.html){:target="_blank"}.
+
+- 🥇 **[2025.07]** Won the **National First Prize** in the China Robotics and Artificial Intelligence Competition (CRAIC).
+
+- 📍 **[2025.07]** Started interning at the AIM Lab of the State Key Lab of CAD&CG, Zhejiang University.
+
+- 🥇 **[2025.05]** Won the **International First Prize** at the ASC Student Supercomputer Challenge as team captain.
+
+- 🏆 **[2025.05]** Won the **Provincial Special Prize** in the "Challenge Cup" as team leader.
+
+- 🌏 **[2025.04]** Attended a short-term exchange program at [**Ritsumeikan University**](https://en.ritsumei.ac.jp/){:target="_blank"}, Kyoto, Japan.
+
+- 🧠 **[2025.03 - 2025.06]** Completed research training: efficient LLM fine-tuning under resource constraints (LLaMA3.2-3B + GSM8K, 5 strategies).
 
 - 🥇 **[2025.02]** Won the **Meritorious Winner (International First Prize)** in the Mathematical Contest in Modeling ([MCM/ICM](https://www.comap.com/contests/mcm-icm){:target="_blank"}).
 
+- 🖥️ **[2024.12 - 2025.05]** Served as team captain for ASC Supercomputer Challenge, fully responsible for technical design and coordination.
+
+- 🧠 **[2024.12 - 2025.01]** Interned at Xi'an iFLYTEK Super Brain as Assistant Research Algorithm Engineer; recognized as **Outstanding Intern**.
+
+- 🎓 **[2024.12]** Awarded Outstanding Student & Second-Class Scholarship, BLT Second-Class Special Scholarship.
+
+- 🥈 **[2024.10]** Won the **National Silver Award** in the China International College Students' Innovation Competition.
+
 - 🥈 **[2024.09]** Won the **National Second Prize** in the Contemporary Undergraduate Mathematical Contest in Modeling ([CUMCM](https://en.mcm.edu.cn/){:target="_blank"}).
+
+- 📜 **[2024.08 - 2024.11]** Filed National Invention Patent on data augmentation for UAV vision-language navigation (first student inventor).
+
+- 🌏 **[2024.07]** Attended the "Mathematical Journey" summer program at [**The Hong Kong Polytechnic University**](https://www.polyu.edu.hk/){:target="_blank"}; participated in social practice in Nyingchi, Tibet (recommended as Outstanding Case by the Ministry of Education).
 
 - 🎖️ **[2024.04]** Won the **Excellence Award** in the "Qizhi Cup" Machine Vision Design Competition.
 
 - 🥇 **[2023.12]** Won the **Provincial First Prize** in the 15th National College Student Mathematics Competition.
+
+- 🎓 **[2023.12]** Awarded Outstanding Student & First-Class Scholarship, Wu Yajun Third-Class Special Scholarship.
 
 
 Education
