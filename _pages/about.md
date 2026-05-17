@@ -234,47 +234,27 @@ I am a senior undergraduate student majoring in Computer Science at the School o
 Latest News
 ======
 
-- 📝 **[2026.05]** One co-first-author paper submitted to **ECCV 2026** (CCF-B): ICRDrag — In-context Region-based Drag.
+- 📝 **[2026.05]** One co-first-author paper submitted to **ECCV 2026** (CCF-B): In-context Region-based Drag: Drag Any Region to Any Shape.
 
 - 🏭 **[2025.10 - Present]** Launched the Few-shot Defect Image Generation project as project lead.
 
-- 🏆 **[2025.10]** Awarded the **Tencent Special Scholarship** (the only undergraduate recipient), university-level **Innovation and Entrepreneurship Star** (top 10 campus-wide), and **Outstanding Student & First-Class Scholarship**.
-
 - 🎓 **[2025.10]** Recommended for direct PhD admission to **Shanghai Jiao Tong University** (SJTU); started interning at the [**BCMI Lab**](https://bcmi.sjtu.edu.cn/member.cn.html){:target="_blank"}.
 
-- 🥇 **[2025.07]** Won the **National First Prize** in the China Robotics and Artificial Intelligence Competition (CRAIC).
-
-- 📍 **[2025.07]** Started interning at the AIM Lab of the State Key Lab of CAD&CG, Zhejiang University.
-
-- 🥇 **[2025.05]** Won the **International First Prize** at the ASC Student Supercomputer Challenge as team captain.
-
-- 🏆 **[2025.05]** Won the **Provincial Special Prize** in the "Challenge Cup" as team leader.
-
-- 🌏 **[2025.04]** Attended a short-term exchange program at [**Ritsumeikan University**](https://en.ritsumei.ac.jp/){:target="_blank"}, Kyoto, Japan.
-
-- 🧠 **[2025.03 - 2025.06]** Completed research training: efficient LLM fine-tuning under resource constraints (LLaMA3.2-3B + GSM8K, 5 strategies).
+- 🧠 **[2025.03 - 2025.06]** Completed research training: efficient LLM fine-tuning under resource constraints.
 
 - 🥇 **[2025.02]** Won the **Meritorious Winner (International First Prize)** in the Mathematical Contest in Modeling ([MCM/ICM](https://www.comap.com/contests/mcm-icm){:target="_blank"}).
 
-- 🖥️ **[2024.12 - 2025.05]** Served as team captain for ASC Supercomputer Challenge, fully responsible for technical design and coordination.
-
-- 🧠 **[2024.12 - 2025.01]** Interned at Xi'an iFLYTEK Super Brain as Assistant Research Algorithm Engineer; recognized as **Outstanding Intern**.
-
-- 🎓 **[2024.12]** Awarded Outstanding Student & Second-Class Scholarship, BLT Second-Class Special Scholarship.
-
-- 🥈 **[2024.10]** Won the **National Silver Award** in the China International College Students' Innovation Competition.
+- 🎓 **[2024.12]** Awarded Outstanding Student & Second-Class Scholarship.
 
 - 🥈 **[2024.09]** Won the **National Second Prize** in the Contemporary Undergraduate Mathematical Contest in Modeling ([CUMCM](https://en.mcm.edu.cn/){:target="_blank"}).
 
-- 📜 **[2024.08 - 2024.11]** Filed National Invention Patent on data augmentation for UAV vision-language navigation (first student inventor).
-
-- 🌏 **[2024.07]** Attended the "Mathematical Journey" summer program at [**The Hong Kong Polytechnic University**](https://www.polyu.edu.hk/){:target="_blank"}; participated in social practice in Nyingchi, Tibet (recommended as Outstanding Case by the Ministry of Education).
+- 📜 **[2024.08 - 2024.11]** Completed National Invention Patent on data augmentation for UAV vision-language navigation (first student inventor).
 
 - 🎖️ **[2024.04]** Won the **Excellence Award** in the "Qizhi Cup" Machine Vision Design Competition.
 
 - 🥇 **[2023.12]** Won the **Provincial First Prize** in the 15th National College Student Mathematics Competition.
 
-- 🎓 **[2023.12]** Awarded Outstanding Student & First-Class Scholarship, Wu Yajun Third-Class Special Scholarship.
+- 🎓 **[2023.12]** Awarded Outstanding Student & First-Class Scholarship.
 
 
 Education
@@ -311,15 +291,15 @@ Projects
 </div>
 
 <div class="project-item">
-<div class="project-title">📜 National Invention Patent: Data Augmentation for UAV Vision-Language Navigation</div>
-<div class="project-meta">First Student Inventor | 2024.08 - 2024.11</div>
-<p>Proposed a hierarchical instruction generation model based on a two-scale graph Transformer (DUET) and a large language model to address data scarcity and low instruction quality in UAV vision-language navigation. The method uses heuristic search to generate paths, extracts multi-modal features via ViT-B/16 and BERT with a dynamic merging strategy, and leverages DUET's dual-scale visual representations with LLM contextual reasoning to generate high-quality navigation instructions. Filtered by BLEU metrics, the augmented data significantly improves instruction conciseness and key action density.</p>
-</div>
-
-<div class="project-item">
 <div class="project-title">⚡ Efficient LLM Fine-tuning under Resource Constraints</div>
 <div class="project-meta">Research Training Project | 2025.03 - 2025.06</div>
 <p>Investigated memory optimization for LLM fine-tuning in resource-constrained environments. Built a GPU memory estimation model for Decoder-only Transformers, quantifying various memory demands. Systematically surveyed LoRA, QLoRA, activation recomputation, and parameter offloading strategies from both algorithmic and system perspectives. Conducted comparative experiments with 5 fine-tuning strategies on LLaMA3.2-3B using the GSM8K dataset, evaluating memory cost, training time, and convergence quality.</p>
+</div>
+
+<div class="project-item">
+<div class="project-title">📜 National Invention Patent: Data Augmentation for UAV Vision-Language Navigation</div>
+<div class="project-meta">First Student Inventor | 2024.08 - 2024.11</div>
+<p>Proposed a hierarchical instruction generation model based on a two-scale graph Transformer (DUET) and a large language model to address data scarcity and low instruction quality in UAV vision-language navigation. The method uses heuristic search to generate paths, extracts multi-modal features via ViT-B/16 and BERT with a dynamic merging strategy, and leverages DUET's dual-scale visual representations with LLM contextual reasoning to generate high-quality navigation instructions. Filtered by BLEU metrics, the augmented data significantly improves instruction conciseness and key action density.</p>
 </div>
 
 Honors & Awards
@@ -329,28 +309,21 @@ Honors & Awards
 
 <h3>🏆 Scholarships</h3>
 <ul>
-<li>First-Class Scholarship, NWPU (2023, 2025)</li>
-<li>Second-Class Scholarship, NWPU (2024)</li>
-<li>Tencent Special Scholarship (the only undergraduate recipient, 2025)</li>
-<li>BLT Second-Class Special Scholarship (2024)</li>
-<li>Wu Yajun Third-Class Special Scholarship (2023)</li>
+<li>First-Class Scholarship, NWPU (2023)</li>
+<li>Second-Class Scholarship, NWPU (2024, 2025)</li>
 </ul>
 
 <h3>🎖️ Honorary Titles</h3>
 <ul>
-<li>Innovation and Entrepreneurship Star (Top 10 campus-wide, 2025)</li>
 <li>Outstanding Student, NWPU (2023, 2024, 2025)</li>
 </ul>
 
-<h3>🥇 Competition Awards (Selected)</h3>
+<h3>🥇 Competition Awards</h3>
 <ul>
 <li>Mathematical Contest in Modeling (MCM/ICM) - <span style="color: #2E5C8A;"><strong>Meritorious Winner (International First Prize)</strong></span> (2025)</li>
 <li>Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) - <span style="color: #2E5C8A;"><strong>National Second Prize</strong></span> (2024)</li>
 <li>National College Student Mathematics Competition - <span style="color: #2E5C8A;"><strong>Provincial First Prize</strong></span> (2023)</li>
 <li>"Qizhi Cup" Machine Vision Design Competition - Excellence Award (2024)</li>
-<li>ASC Student Supercomputer Challenge - International First Prize (2025)</li>
-<li>China Robotics and Artificial Intelligence Competition - National First Prize (2025)</li>
-<li>China International College Students' Innovation Competition - National Gold Award (2024)</li>
 </ul>
 
 </div>
