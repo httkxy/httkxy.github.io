@@ -1,9 +1,6 @@
 ---
-permalink: /
+permalink: /zh/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <style>
@@ -35,7 +32,7 @@ redirect_from:
         font-family: "Segoe UI", sans-serif;
     }
     .experience-info strong {
-        font-size: 16px;
+        font-size: 18px;
         color: #494E52;
     }
     .experience-info a {
@@ -229,48 +226,48 @@ redirect_from:
 </body>
 </html>
 
-I am a senior undergraduate student majoring in Artificial Intelligence at the School of Computer Science, [Northwestern Polytechnical University](https://en.nwpu.edu.cn/){:target="_blank"}. My research interests focus on **World Models** and **Embodied AI**.
+我是一名来自[西北工业大学](https://www.nwpu.edu.cn/){:target="_blank"}计算机学院人工智能专业的大四本科生。我的研究兴趣聚焦于**世界模型**和**具身智能**。
 
 Latest News
 ======
 
-- 📝 **[2026.04]** Our work StaMo has been selected as a **Highlight** at CVPR 2026!
+- 📝 **[2026.04]** 我们的工作 StaMo 被选为 CVPR 2026 **Highlight**！
 
-- 🎉 **[2026.02]** One paper accepted to **CVPR 2026 main**! One paper recommended to **findings**!
+- 🎉 **[2026.02]** 一篇工作被 **CVPR 2026 main** 接收！一篇工作被推荐至 **findings**！
 
-- 🎓 **[2025.10]** Awarded the **Tencent Special Scholarship** (the only undergraduate recipient), university-level **Innovation and Entrepreneurship Star** (top 10 campus-wide), and **Outstanding Student & First-Class Scholarship**.
+- 🎓 **[2025.10]** 荣获**腾讯特等奖学金**（本科生唯一获奖者）、校级**双创之星**（全校 10 人）、**校优秀大学生及一等奖学金**。
 
-- 📍 **[2025.07]** Started interning at the [AIM Lab](https://aim-uofa.github.io/){:target="_blank"} of the State Key Lab of [CAD&CG](http://www.en.cs.zju.edu.cn/){:target="_blank"} at Zhejiang University, supervised by Researcher [**Hao Chen**](https://stan-haochen.github.io/){:target="_blank"} and Prof. [**Chunhua Shen**](https://cshen.github.io/){:target="_blank"}.
+- 📍 **[2025.07]** 开始在浙江大学 [CAD&CG](http://www.cs.zju.edu.cn/csen/){:target="_blank"} 全国重点实验室的 [AIM](https://aim-uofa.github.io/){:target="_blank"} 实验室实习，师从[**陈昊**](https://stan-haochen.github.io/){:target="_blank"}研究员和[**沈春华**](https://cshen.github.io/){:target="_blank"}教授。
 
-- 🥇 **[2025.07]** Won the **National First Prize** in the finals of the **China Robotics and Artificial Intelligence Competition** ([CRAIC](https://www.caairobot.com/){:target="_blank"}), with a satellite-UAV scene matching and localization algorithm under large inclination conditions.
+- 🥇 **[2025.07]** 在**中国机器人与人工智能大赛**（[CRIC](https://www.caairobot.com/){:target="_blank"}）全国决赛中，凭借大倾角条件下的卫星-无人机景象匹配定位算法，斩获**国家级一等奖**。
 
 
 <details markdown="1">
-<summary> 📚 More News </summary>
+<summary> 📚 更多动态 </summary>
 
-- 🏆 **[2025.05]** As team leader, led the team to win the **Provincial Special Prize** in the [**"Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition**](https://www.tiaozhanbei.net/){:target="_blank"}, with an integrated visual foundation model for perception and localization.
+- 🏆 **[2025.05]** 作为团队负责人，带领团队在[**"挑战杯"全国大学生课外学术科技作品竞赛**](https://www.tiaozhanbei.net/){:target="_blank"}中，凭借视感定一体化视觉基座模型，荣获**省级特等奖**。
 
-- 🥇 **[2025.05]** As the captain of the supercomputing team, led the team to win the **International First Prize** at the [**ASC Student Supercomputer Challenge**](https://www.asc-events.net/StudentChallenge/index.html){:target="_blank"} finals (10th in global preliminaries, 13th in finals). Fully responsible for team coordination, resource allocation, and technical scheme design. Focused on optimizing CPU inference performance for AlphaFold3 and DeepSeek (achieving 10x and 7x speedups, respectively), and had the honor to present a technical report to **Turing Award Laureate Prof. [Jack Dongarra](https://www.netlib.org/utk/people/JackDongarra/){:target="_blank"}**.
+- 🥇 **[2025.05]** 担任超算队队长，带领团队在 [**ASC 世界大学生超级计算机竞赛**](https://www.asc-events.net/StudentChallenge/index.html){:target="_blank"}决赛中取得**国际级一等奖**（全球初赛第10名、总决赛第13名）。全面负责团队任务协调、资源分配及技术方案设计，重点完成AlphaFold3与DeepSeek在CPU上的推理性能优化（分别实现 10x 和 7x 加速），并有幸向**图灵奖得主 [Jack Dongarra](https://www.netlib.org/utk/people/JackDongarra/){:target="_blank"} 教授**作技术报告。
 
-- 🌏 **[2025.04]** Attended a short-term exchange program at [**Ritsumeikan University**](https://en.ritsumei.ac.jp/){:target="_blank"} in Kyoto, Japan.
+- 🌏 **[2025.04]** 前往[**立命馆大学**](https://www.ritsumei.ac.jp/){:target="_blank"}（Ritsumeikan University）（日本·京都）参加短期访学交流活动。
 
-- 🥇 **[2025.01]** Won the **First Prize (Meritorious Winner)** in the [**Mathematical Contest in Modeling (MCM/ICM)**](https://www.comap.com/contests/mcm-icm){:target="_blank"}.
+- 🥇 **[2025.01]** 在[**美国大学生数学建模竞赛**](https://www.comap.com/contests/mcm-icm){:target="_blank"}中，荣获**国际级一等奖（M奖）**。
 
-- 🧠 **[2024.12-2025.01]** Interned as an **Assistant Research Algorithm Engineer** at **Xi'an iFLYTEK Super Brain Information Technology Co., Ltd.** (a wholly-owned subsidiary of iFLYTEK). Participated in semantic deduplication of questions, improving the model's zero-shot accuracy from 63% to 94% through hyperparameter search and prompt engineering. Recognized as an **Outstanding Intern**.
+- 🧠 **[2024.12-2025.01]** 在**西安讯飞超脑信息科技有限公司**（科大讯飞全资子公司）实习，担任**助理研究算法工程师**。参与题目语义去重任务，通过超参搜索和提示词工程，将模型零样本正确率从 63% 提升至 94%，被评为**优秀实习生**。
 
-- 🎓 **[2024.12]** Awarded **Outstanding Student & Second-Class Scholarship**, and **BLT Second-Class Special Scholarship**.
+- 🎓 **[2024.12]** 荣获**校优秀大学生及二等奖学金**、**铂力特二等专项奖学金**。
 
-- 🥈 **[2024.10]** As team leader, led the team to win the **National Silver Award** in the national finals of the [**China International College Students' Innovation Competition (2024)**](https://cy.ncss.cn/en/){:target="_blank"}.
+- 🥈 **[2024.10]** 作为团队负责人，带领团队在[**中国国际大学生创新大赛（2024）**](https://cy.ncss.cn/){:target="_blank"}全国决赛中荣获**国家级银奖**。
 
-- 🥈 **[2024.09]** Won the **National Second Prize** in the [**Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**](https://en.mcm.edu.cn/){:target="_blank"}.
+- 🥈 **[2024.09]** 在[**全国大学生数学建模竞赛**](https://www.mcm.edu.cn/){:target="_blank"}中，荣获**国家级二等奖**。
 
-- 🌏 **[2024.07]** Attended the "Mathematical Journey" summer exchange program at [**The Hong Kong Polytechnic University**](https://www.polyu.edu.hk/en/){:target="_blank"} (PolyU) in Hong Kong, China.
+- 🌏 **[2024.07]** 前往[**香港理工大学**](https://www.polyu.edu.hk/){:target="_blank"}（PolyU）（中国·香港）参加"数学之旅"暑期访学交流项目。
 
-- 📚 **[2024.07]** Participated in the "Take the Lead" social practice project to support high-quality development in border areas in Nyingchi, Tibet. Awarded **Outstanding Individual in Social Practice**, and the project was recommended as an **Outstanding Social Practice Case by the Ministry of Education**.
+- 📚 **[2024.07]** 前往西藏林芝参加"揭榜挂帅"助力祖国边疆地区高质量发展社会实践项目，获评**社会实践先进个人**，项目被推荐为**教育部优秀社会实践案例**。
 
-- 📝 **[2024.01]** Completed and submitted my first **National Invention Patent**: "A Data Augmentation Method for Vision-and-Language Navigation Tasks".
+- 📝 **[2024.01]** 完成并提交首篇**国家发明专利**《一种用于视觉语言导航任务的数据增广方法》。
 
-- 🎓 **[2023.12]** Awarded **Outstanding Student & First-Class Scholarship**, and **Wu Yajun Third-Class Special Scholarship**.
+- 🎓 **[2023.12]** 荣获**校优秀大学生及一等奖学金**、**吴亚军三等专项奖学金**。
 
 </details>
 
@@ -280,18 +277,18 @@ Experiences
   <div class="experience-card">
       <img src="../images/ZJU.png" alt="ZJU logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a></strong><br>
-          2025.06 - Now<br>
-          Research Intern at <a href="https://aim-uofa.github.io/" target="_blank"><em>AIM Lab</em></a> 
+          <strong><a href="https://www.zju.edu.cn/" target="_blank">浙江大学</a></strong><br>
+          2025.06 - 至今<br>
+          <a href="https://aim-uofa.github.io/" target="_blank"><em>AIM Lab</em></a> 研究实习生
       </div>
   </div>
 
   <div class="experience-card">
       <img src="../images/NWPU.png" alt="NWPU logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">Northwestern Polytechnical Univ.</a></strong><br>
+          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">西北工业大学</a></strong><br>
           2022.09 - 2026.06<br>
-          B.E, supervised by <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>Prof. Peng Wang</em></a>
+          工学学士，指导教师 <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>王鹏教授</em></a>
       </div>
   </div>
 </div>
@@ -299,7 +296,7 @@ Experiences
 Research & Publications
 ======
 
-My research primarily focuses on **Robot Learning** and **World Models**:
+我的研究工作主要集中在**机器人学习**和**世界模型**等方向：
 
 <div class="list-item publication" data-category="publication"> 
   <a href="https://aim-uofa.github.io/StaMo/" target="_blank" class="thumbnail"> 
@@ -323,15 +320,15 @@ Contributions
 
 <div class="project-item">
 <div class="project-title"><a href="https://github.com/huggingface/lerobot" target="_blank">🤗 huggingface/lerobot</a></div>
-<div class="project-meta">Contributor | GitHub 23k+ stars 🌟</div>
-<p>Contributed a PR that improved the initialization performance of DatasetReader when episodes are specified and index remapping is required, accelerating data loading efficiency during model training.</p>
-<p style="margin-top: 10px;"><a href="https://github.com/huggingface/lerobot" target="_blank">GitHub</a></p>
+<div class="project-meta">贡献者 | GitHub 23k+ stars 🌟</div>
+<p>贡献PR，当指定episodes并需要索引重新映射时，提高了DatasetReader的初始化性能，加速了模型训练过程的数据加载效率。</p>
+<p style="margin-top: 10px;"><a href="https://github.com/huggingface/lerobot" target="_blank">Code</a></p>
 </div>
 
 <div class="project-item">
 <div class="project-title"><a href="https://github.com/Hagb/docker-easyconnect" target="_blank">🐳 docker-easyconnect</a></div>
-<div class="project-meta">Contributor | GitHub 5k+ stars 🌟 | Docker Hub 100k+ downloads</div>
-<p>Contributed a PR to implement minimal chromium adaptation and integrated it into the project image, successfully solving the adaptation issue where some network tools must be logged in via the web interface, further improving the project's use cases and adaptability.</p>
+<div class="project-meta">贡献者 | GitHub 5k+ stars 🌟 | Docker Hub 100k+ downloads</div>
+<p>贡献PR，实现chromium最小化适配并集成至项目镜像，成功解决部分网络工具必须通过web端完成登录的适配问题，进一步完善项目的使用场景和适配能力。</p>
 <p style="margin-top: 10px;">
     <a href="https://github.com/Hagb/docker-easyconnect" target="_blank">GitHub</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="https://hub.docker.com/r/hagb/docker-easyconnect" target="_blank">Docker Hub</a>
@@ -342,9 +339,9 @@ Projects
 ======
 
 <div class="project-item">
-<div class="project-title"><a href="https://www.asc-events.net/StudentChallenge/History/2025/index.html" target="_blank">🖥️ ASC Student Supercomputer Challenge</a></div>
-<div class="project-meta">ASC25 International First Prize | NWPU Supercomputing Team Captain | Dec 2024 - May 2025</div>
-<p>Fully responsible for the design and implementation of the team's technical scheme in the ASC Supercomputer Challenge. For the AlphaFold3 and DeepSeek large models, constructed a multi-node parallel inference scheme based on Google JAX pre-compile, Intel OneCCL communication library, XFT parallel framework, and vLLM inference engine. Achieved over 10x performance improvement for AlphaFold3 and ~7x inference speedup for DeepSeek on 4 CPU nodes.</p>
+<div class="project-title"><a href="https://www.asc-events.net/StudentChallenge/History/2025/index.html" target="_blank">🖥️ ASC 世界大学生超级计算机竞赛</a></div>
+<div class="project-meta">ASC25 国际级一等奖 | NWPU 超算队队长 | 2024.12 - 2025.05</div>
+<p>全面负责团队在ASC超算竞赛中的技术方案设计与实施。针对AlphaFold3与DeepSeek大模型，基于Google JAX pre-compile、Intel OneCCL通信库、XFT并行框架与vLLM推理引擎构建多节点并行推理方案，在4个CPU节点上实现AlphaFold3性能提升10倍以上、DeepSeek推理速度提升约7倍。</p>
 </div>
 
 Honors & Awards
@@ -352,28 +349,28 @@ Honors & Awards
 
 <div class="blue-box">
 
-<h3>🏆 Scholarships</h3>
+<h3>🏆 奖学金</h3>
 <ul>
-<li>Tencent Special Scholarship (the only undergraduate recipient, 2025)</li>
-<li>First-Class Scholarship (2023, 2025)</li>
-<li>Second-Class Scholarship (2024)</li>
-<li>BLT Second-Class Special Scholarship (2024)</li>
-<li>Wu Yajun Third-Class Special Scholarship (2023)</li>
+<li>腾讯特等奖学金（本科生唯一获奖者，2025）</li>
+<li>校级一等奖学金（2023、2025）</li>
+<li>校级二等奖学金（2024）</li>
+<li>铂力特二等专项奖学金（2024）</li>
+<li>吴亚军三等专项奖学金（2023）</li>
 </ul>
 
-<h3>🎖️ Honorary Titles</h3>
+<h3>🎖️ 荣誉称号</h3>
 <ul>
-<li>Innovation and Entrepreneurship Star (Top 10 campus-wide, 2025)</li>
+<li>双创之星（全校10人，2025）</li>
 </ul>
 
-<h3>🥇 Competition Awards (Selected)</h3>
+<h3>🥇 竞赛获奖（部分）</h3>
 <ul>
-<li>ASC Student Supercomputer Challenge - <span style="color: #2E5C8A;"><strong>International First Prize</strong></span> (2025)</li>
-<li>China Robotics and Artificial Intelligence Competition - <span style="color: #2E5C8A;"><strong>National First Prize</strong></span> (2025)</li>
-<li>Mathematical Contest in Modeling (MCM/ICM) - <span style="color: #2E5C8A;"><strong>First Prize / Meritorious Winner</strong></span> (2025)</li>
-<li>China International College Students' Innovation Competition - <span style="color: #2E5C8A;"><strong>National Gold Award</strong></span> (2024)</li>
-<li>Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) - National Second Prize (2024)</li>
-<li>"Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition - Provincial Special Prize (2025)</li>
+<li>ASC世界大学生超级计算机竞赛 - <span style="color: #2E5C8A;"><strong>国际级一等奖</strong></span>（2025）</li>
+<li>中国机器人及人工智能大赛 - <span style="color: #2E5C8A;"><strong>国家级一等奖</strong></span>（2025）</li>
+<li>美国大学生数学建模竞赛 - <span style="color: #2E5C8A;"><strong>国际级一等奖/M奖</strong></span>（2025）</li>
+<li>中国国际大学生创新大赛 - <span style="color: #2E5C8A;"><strong>国家级金奖</strong></span>（2025）</li>
+<li>全国大学生数学建模竞赛 - 国家级二等奖（2024）</li>
+<li>"挑战杯"全国大学生课外学术科技作品竞赛 - 省级特等奖（2025）</li>
 </ul>
 
 </div>
