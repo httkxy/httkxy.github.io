@@ -4,229 +4,221 @@ author_profile: true
 ---
 
 <style>
-    /* Modify from https://selen-suyue.github.io/ */
+    /* ===== Hero ===== */
+    .hero {
+        text-align: center;
+        padding: 1.5em 0 0.8em;
+        margin-bottom: 0.5em;
+    }
+    .hero h1 {
+        font-family: 'Lora', 'Noto Serif SC', Georgia, 'Times New Roman', serif;
+        font-size: 2.4em;
+        font-weight: 600;
+        color: #1a202c;
+        margin-bottom: 0.25em;
+        letter-spacing: -0.5px;
+    }
+    .hero .tagline {
+        font-size: 1.05em;
+        color: #64748b;
+        font-weight: 400;
+    }
+    .hero .tagline a {
+        color: #3b82f6;
+        text-decoration: none;
+    }
+    .hero .tagline a:hover {
+        text-decoration: underline;
+    }
+    .hero .stats {
+        display: flex;
+        justify-content: center;
+        gap: 2em;
+        margin-top: 0.8em;
+        flex-wrap: wrap;
+    }
+    .hero .stat-item {
+        text-align: center;
+    }
+    .hero .stat-value {
+        font-size: 1.3em;
+        font-weight: 700;
+        color: #1e40af;
+    }
+    .hero .stat-label {
+        font-size: 0.8em;
+        color: #94a3b8;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    .update-time {
+        text-align: center;
+        font-size: 0.75em;
+        color: #cbd5e1;
+        margin-top: 0.3em;
+    }
+
+    /* ===== Section Headings ===== */
+    h2 {
+        font-family: 'Lora', 'Noto Serif SC', Georgia, serif !important;
+        font-weight: 600 !important;
+        color: #1e293b !important;
+        border-bottom: 2px solid #e2e8f0;
+        padding-bottom: 0.35em;
+        margin-top: 1.6em !important;
+        margin-bottom: 0.6em !important;
+        font-size: 1.35em !important;
+    }
+
+    /* ===== News List ===== */
+    h2 + ul {
+        list-style: none;
+        padding-left: 0;
+    }
+    h2 + ul li {
+        padding: 0.5em 0 0.5em 1em;
+        border-left: 3px solid #e2e8f0;
+        margin-bottom: 0.15em;
+        transition: border-color 0.2s;
+        font-size: 0.95em;
+        line-height: 1.55;
+    }
+    h2 + ul li:hover {
+        border-left-color: #3b82f6;
+    }
+
+    /* ===== Education Cards ===== */
+    .experience-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 16px;
+    }
     .experience-card {
         display: flex;
         align-items: center;
-        background: #F9F9F9;
-        border-radius: 12px;
-        padding: 16px;
-        margin-bottom: 0px;
-        border-left: 4px solid #4A90E2;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-        transition: transform 0.3s, box-shadow 0.3s;
-    }
-    .experience-card:hover {
-        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-    }
-    .experience-logo {
-        width: 60px;
-        height: 60px;
-        margin-right: 20px;
-        border-radius: 8px;
-        object-fit: contain;
-    }
-    .experience-info {
-        font-size: 15px;
-        color: #494E52;
-        font-family: "Segoe UI", sans-serif;
-    }
-    .experience-info strong {
-        font-size: 18px;
-        color: #494E52;
-    }
-    .experience-info a {
-        text-decoration: none;
-        color: #3498DB;
-        transition: color 0.3s ease;
-    }
-    .experience-info a:hover {
-        color: #154360;
-    }
-    .experience-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        gap: 20px;
-    }
-    .experience-card {
+        background: #f8fafc;
+        border-radius: 10px;
+        padding: 18px;
+        border: 1px solid #e2e8f0;
+        transition: box-shadow 0.25s, transform 0.25s;
         box-sizing: border-box;
     }
-
-    .blue-box {
-        border: 2px solid #4A90E2;
+    .experience-card:hover {
+        box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        transform: translateY(-1px);
+    }
+    .experience-logo {
+        width: 52px;
+        height: 52px;
+        margin-right: 16px;
         border-radius: 8px;
-        padding: 20px;
-        margin: 15px 0;
-        box-shadow: 0 2px 8px rgba(74, 144, 226, 0.15);
-    }
-    .blue-box h3 {
-        color: #2E5C8A;
-        margin-top: 0;
-        border-bottom: 2px solid #4A90E2;
-        padding-bottom: 8px;
-    }
-
-    .list-item.publication {
-        display: flex;
-        align-items: flex-start;
-        background: #F9F9F9;
-        border-radius: 12px;
-        padding: 20px;
-        margin-bottom: 20px;
-        border-left: 4px solid #4A90E2;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-        transition: transform 0.3s, box-shadow 0.3s;
-    }
-    .list-item.publication:hover {
-        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-    }
-    .list-item.publication .thumbnail {
-        flex: 0 0 35%;
-        max-width: 200px;
-        margin-right: 20px;
-        border-radius: 8px;
-        overflow: hidden;
-    }
-    .list-item.publication .thumbnail img {
-        width: 200px;
-        height: auto;
-        display: block;
         object-fit: contain;
-        border: 1px solid #E1E8ED;
-        border-radius: 8px;
+        flex-shrink: 0;
     }
-    .list-item.publication .project-description {
-        flex: 1;
-        font-family: "Segoe UI", sans-serif;
+    .experience-info {
+        font-size: 0.92em;
+        color: #475569;
+        line-height: 1.5;
     }
-    .list-item.publication .project-description h3 {
-        margin-top: 0;
-        margin-bottom: 10px;
-        font-size: 1.15em;
+    .experience-info strong {
+        font-size: 1.05em;
+        color: #1e293b;
     }
-    .list-item.publication .project-description h3 a {
-        color: #2E5C8A;
-        /* font-size: 18px; */
+    .experience-info a {
+        color: #3b82f6;
         text-decoration: none;
     }
-    .list-item.publication .project-description .authors {
-        font-size: 12px;
-        color: #494E52;
-        margin-bottom: 5px;
-    }
-    .list-item.publication .project-description .venue {
-        font-size: 15px;
-        color: #6B9BD1;
-        margin-bottom: 5px;
-    }
-    .list-item.publication .project-description p {
-        margin: 0;
-        font-size: 0.95em;
-        line-height: 1.6;
-        color: #494E52;
-    }
-    @media (max-width: 768px) {
-        .list-item.publication {
-            flex-direction: column;
-        }
-        .list-item.publication .thumbnail {
-            flex: 0 0 100%;
-            max-width: 100%;
-            margin-right: 0;
-            margin-bottom: 15px;
-        }
-        .list-item.publication .thumbnail img {
-            width: 100%;
-            max-width: 200px;
-            margin: 0 auto;
-        }
+    .experience-info a:hover {
+        text-decoration: underline;
     }
 
+    /* ===== Project Cards ===== */
     .project-item {
-        border: 1px solid #DDDDDD;
-        margin: 15px 0;
-        background-color: #F9F9F9;
-        padding: 15px 20px;
-        border-radius: 8px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border: 1px solid #e2e8f0;
+        margin: 12px 0;
+        background: #f8fafc;
+        padding: 18px 22px;
+        border-radius: 10px;
+        transition: box-shadow 0.25s, transform 0.25s;
     }
-    
     .project-item:hover {
         transform: translateY(-2px);
-        box-shadow: 0 8px 15px rgba(74, 144, 226, 0.2);
+        box-shadow: 0 6px 24px rgba(0,0,0,0.07);
     }
-
     .project-title {
-        color: #2E5C8A;
-        font-weight: bold;
-        font-size: 1.1em;
-        margin-bottom: 5px;
+        color: #1e40af;
+        font-weight: 650;
+        font-size: 1.05em;
+        margin-bottom: 4px;
     }
-
     .project-meta {
-        color: #4A90E2;
-        font-size: 0.9em;
+        color: #64748b;
+        font-size: 0.85em;
+        margin-bottom: 6px;
     }
-
     .project-item p {
-        color: #494E52;
-        font-size: 0.95em;
-        line-height: 1.6;
-        margin-top: 8px;
+        color: #475569;
+        font-size: 0.92em;
+        line-height: 1.65;
+        margin-top: 6px;
         margin-bottom: 0;
     }
 
-    details summary {
-        cursor: pointer;
-        font-weight: bold;
+    /* ===== Honors Box ===== */
+    .blue-box {
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        padding: 22px 24px;
+        margin: 12px 0;
+        background: #f8fafc;
+    }
+    .blue-box h3 {
+        color: #1e40af;
+        margin-top: 0.8em;
+        margin-bottom: 0.4em;
+        font-size: 1em;
+        font-weight: 650;
+        padding-bottom: 6px;
+        border-bottom: 1px solid #e2e8f0;
+    }
+    .blue-box h3:first-child {
+        margin-top: 0;
+    }
+    .blue-box ul {
+        margin: 0.3em 0 0 0;
+        padding-left: 1.3em;
+        color: #475569;
+        font-size: 0.92em;
+        line-height: 1.7;
     }
 
-    .update-time {
-        font-size: 5px;
-        color: #6B9BD1;
-        font-style: italic;
-        text-align: right;
-        margin-bottom: 20px;
+    /* ===== Global ===== */
+    div.markdown-body a, a {
+        color: #3b82f6;
+        text-decoration: none;
+        transition: color 0.2s;
+    }
+    div.markdown-body a:hover, a:hover {
+        color: #1d4ed8;
+        text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+        .hero h1 { font-size: 1.8em; }
+        .hero .stats { gap: 1.2em; }
     }
 </style>
 
-<html> 
-<head>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;1,500&display=swap');
-        body {
-            font-family: 'Arial Rounded MT Bold', 'Verdana', sans-serif;
-            font-size: 17px;
-        }
-        h1, h2 {
-            margin-top: 0.5em !important;
-        }
-        .main-heading {
-            font-size: 35px;
-            font-family: 'Lora', serif;
-            font-weight: 500;
-            text-align: center;
-            color: #2E86C1;
-        }
-        div.markdown-body a,a {
-            text-decoration: none !important;
-            color: #3498DB;
-            transition: all 0.3s ease;
-        }
-        div.markdown-body a:hover, a:hover {
-            color: #195275ff;
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-<h1 class="main-heading">👋 Hello, World! Welcome to My Space 🚀</h1>
-<p class="update-time">last update: 2026.05</p>
-</body>
-</html>
-
-我是一名来自[西北工业大学](https://www.nwpu.edu.cn/){:target="_blank"}（985/211/双一流）计算机学院计算机科学与技术专业的大四本科生。将于 2026 年秋季直博保研至[上海交通大学](https://www.sjtu.edu.cn/){:target="_blank"}计算机学院，研究方向为**图像生成与编辑**。**GPA: 3.918/4.1**（专业排名 **8/192**）。**CET-6: 559**。
+<div class="hero">
+    <h1>Hi, I'm Tianyu Hao 👋</h1>
+    <p class="tagline">CS @ <a href="https://www.nwpu.edu.cn/" target="_blank">西北工业大学</a> → 博士 @ <a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a> · 图像生成与编辑</p>
+    <div class="stats">
+        <div class="stat-item"><div class="stat-value">3.918<span style="font-size:0.65em;font-weight:500;">/4.1</span></div><div class="stat-label">GPA</div></div>
+        <div class="stat-item"><div class="stat-value">8<span style="font-size:0.65em;font-weight:500;">/192</span></div><div class="stat-label">排名</div></div>
+        <div class="stat-item"><div class="stat-value">559</div><div class="stat-label">CET-6</div></div>
+    </div>
+    <p class="update-time">更新于 2026.05</p>
+</div>
 
 Latest News
 ======
