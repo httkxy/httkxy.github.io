@@ -225,73 +225,75 @@ redirect_from:
 </head>
 <body>
 <h1 class="main-heading">👋 Hello, World! Welcome to My Space 🚀</h1>
-<p class="update-time">last update: 2026.04</p>
+<p class="update-time">last update: 2026.05</p>
 </body>
 </html>
 
-I am a senior undergraduate student majoring in Artificial Intelligence at the School of Computer Science, [Northwestern Polytechnical University](https://en.nwpu.edu.cn/){:target="_blank"}. My research interests focus on **World Models** and **Embodied AI**.
+I am a senior undergraduate student majoring in Computer Science at the School of Computer Science, [Northwestern Polytechnical University](https://en.nwpu.edu.cn/){:target="_blank"} (NWPU, 985/211/双一流). I will start my PhD at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/){:target="_blank"} (SJTU) in Fall 2026, focusing on **image generation and editing**. **GPA: 3.918/4.1** (rank **8/192**). **CET-6: 559**.
 
 Latest News
 ======
 
-- 📝 **[2026.04]** Our work StaMo has been selected as a **Highlight** at CVPR 2026!
+- 🎓 **[2026.05]** Recommended for direct PhD admission to **Shanghai Jiao Tong University** (SJTU), School of Computer Science.
 
-- 🎉 **[2026.02]** One paper accepted to **CVPR 2026 main**! One paper recommended to **findings**!
+- 📝 **[2026.05]** One co-first-author paper submitted to **ECCV 2026** (CCF-B): ICRDrag — In-context Region-based Drag.
 
-- 🎓 **[2025.10]** Awarded the **Tencent Special Scholarship** (the only undergraduate recipient), university-level **Innovation and Entrepreneurship Star** (top 10 campus-wide), and **Outstanding Student & First-Class Scholarship**.
+- 🥇 **[2025.02]** Won the **Meritorious Winner (International First Prize)** in the Mathematical Contest in Modeling ([MCM/ICM](https://www.comap.com/contests/mcm-icm){:target="_blank"}).
 
-- 📍 **[2025.07]** Started interning at the [AIM Lab](https://aim-uofa.github.io/){:target="_blank"} of the State Key Lab of [CAD&CG](http://www.en.cs.zju.edu.cn/){:target="_blank"} at Zhejiang University, supervised by Researcher [**Hao Chen**](https://stan-haochen.github.io/){:target="_blank"} and Prof. [**Chunhua Shen**](https://cshen.github.io/){:target="_blank"}.
+- 🥈 **[2024.09]** Won the **National Second Prize** in the Contemporary Undergraduate Mathematical Contest in Modeling ([CUMCM](https://en.mcm.edu.cn/){:target="_blank"}).
 
-- 🥇 **[2025.07]** Won the **National First Prize** in the finals of the **China Robotics and Artificial Intelligence Competition** ([CRAIC](https://www.caairobot.com/){:target="_blank"}), with a satellite-UAV scene matching and localization algorithm under large inclination conditions.
+- 🥇 **[2023.12]** Won the **Provincial First Prize** in the 15th National College Student Mathematics Competition.
+
+- 🎖️ **[2024.04]** Won the **Excellence Award** in the "Qizhi Cup" Machine Vision Design Competition.
 
 
 <details markdown="1">
 <summary> 📚 More News </summary>
 
-- 🏆 **[2025.05]** As team leader, led the team to win the **Provincial Special Prize** in the [**"Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition**](https://www.tiaozhanbei.net/){:target="_blank"}, with an integrated visual foundation model for perception and localization.
+- 🧠 **[2025.03 - 2025.06]** Completed a research training project on efficient LLM fine-tuning under resource constraints. Modeled GPU memory consumption for Decoder-only Transformers, analyzed LoRA/QLoRA/activation recomputation/offloading strategies, and ran comparison experiments on LLaMA3.2-3B with GSM8K across 5 fine-tuning configurations.
 
-- 🥇 **[2025.05]** As the captain of the supercomputing team, led the team to win the **International First Prize** at the [**ASC Student Supercomputer Challenge**](https://www.asc-events.net/StudentChallenge/index.html){:target="_blank"} finals (10th in global preliminaries, 13th in finals). Fully responsible for team coordination, resource allocation, and technical scheme design. Focused on optimizing CPU inference performance for AlphaFold3 and DeepSeek (achieving 10x and 7x speedups, respectively), and had the honor to present a technical report to **Turing Award Laureate Prof. [Jack Dongarra](https://www.netlib.org/utk/people/JackDongarra/){:target="_blank"}**.
+- 🏆 **[2025.10]** Awarded the Tencent Special Scholarship (the only undergraduate recipient), university-level Innovation and Entrepreneurship Star (top 10 campus-wide), and Outstanding Student & First-Class Scholarship.
 
-- 🌏 **[2025.04]** Attended a short-term exchange program at [**Ritsumeikan University**](https://en.ritsumei.ac.jp/){:target="_blank"} in Kyoto, Japan.
+- 📍 **[2025.07]** Started interning at the AIM Lab of the State Key Lab of CAD&CG at Zhejiang University, supervised by Researcher Hao Chen and Prof. Chunhua Shen.
 
-- 🥇 **[2025.01]** Won the **First Prize (Meritorious Winner)** in the [**Mathematical Contest in Modeling (MCM/ICM)**](https://www.comap.com/contests/mcm-icm){:target="_blank"}.
+- 🥇 **[2025.07]** Won the National First Prize in the China Robotics and Artificial Intelligence Competition (CRAIC).
 
-- 🧠 **[2024.12-2025.01]** Interned as an **Assistant Research Algorithm Engineer** at **Xi'an iFLYTEK Super Brain Information Technology Co., Ltd.** (a wholly-owned subsidiary of iFLYTEK). Participated in semantic deduplication of questions, improving the model's zero-shot accuracy from 63% to 94% through hyperparameter search and prompt engineering. Recognized as an **Outstanding Intern**.
+- 🥇 **[2025.05]** Won the International First Prize at the ASC Student Supercomputer Challenge as team captain.
 
-- 🎓 **[2024.12]** Awarded **Outstanding Student & Second-Class Scholarship**, and **BLT Second-Class Special Scholarship**.
+- 🌏 **[2025.04]** Attended a short-term exchange program at Ritsumeikan University in Kyoto, Japan.
 
-- 🥈 **[2024.10]** As team leader, led the team to win the **National Silver Award** in the national finals of the [**China International College Students' Innovation Competition (2024)**](https://cy.ncss.cn/en/){:target="_blank"}.
+- 🧠 **[2024.12 - 2025.01]** Interned as an Assistant Research Algorithm Engineer at Xi'an iFLYTEK Super Brain Information Technology Co., Ltd.
 
-- 🥈 **[2024.09]** Won the **National Second Prize** in the [**Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**](https://en.mcm.edu.cn/){:target="_blank"}.
+- 🥈 **[2024.10]** Won the National Silver Award in the China International College Students' Innovation Competition.
 
-- 🌏 **[2024.07]** Attended the "Mathematical Journey" summer exchange program at [**The Hong Kong Polytechnic University**](https://www.polyu.edu.hk/en/){:target="_blank"} (PolyU) in Hong Kong, China.
+- 🌏 **[2024.07]** Attended the "Mathematical Journey" summer exchange program at The Hong Kong Polytechnic University.
 
-- 📚 **[2024.07]** Participated in the "Take the Lead" social practice project to support high-quality development in border areas in Nyingchi, Tibet. Awarded **Outstanding Individual in Social Practice**, and the project was recommended as an **Outstanding Social Practice Case by the Ministry of Education**.
+- 📚 **[2024.07]** Participated in social practice in Nyingchi, Tibet. Awarded Outstanding Individual in Social Practice (recommended as Outstanding Case by the Ministry of Education).
 
-- 📝 **[2024.01]** Completed and submitted my first **National Invention Patent**: "A Data Augmentation Method for Vision-and-Language Navigation Tasks".
-
-- 🎓 **[2023.12]** Awarded **Outstanding Student & First-Class Scholarship**, and **Wu Yajun Third-Class Special Scholarship**.
+- 🎓 **[2023.12]** Awarded Outstanding Student & First-Class Scholarship, and Wu Yajun Third-Class Special Scholarship.
 
 </details>
 
-Experiences
+Education
 ======
 <div class="experience-container">
   <div class="experience-card">
-      <img src="../images/ZJU.png" alt="ZJU logo" class="experience-logo">
+      <img src="../images/NWPU.png" alt="NWPU logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a></strong><br>
-          2025.06 - Now<br>
-          Research Intern at <a href="https://aim-uofa.github.io/" target="_blank"><em>AIM Lab</em></a> 
+          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">Northwestern Polytechnical University</a></strong><br>
+          2022.09 - 2026.06<br>
+          B.E. in Computer Science and Technology<br>
+          GPA: 3.918/4.1 (Rank 8/192) | CET-6: 559
       </div>
   </div>
 
   <div class="experience-card">
-      <img src="../images/NWPU.png" alt="NWPU logo" class="experience-logo">
+      <img src="../images/ZJU.png" alt="SJTU logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">Northwestern Polytechnical Univ.</a></strong><br>
-          2022.09 - 2026.06<br>
-          B.E, supervised by <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>Prof. Peng Wang</em></a>
+          <strong><a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a></strong><br>
+          2026.09 - Incoming<br>
+          Ph.D. in Computer Science<br>
+          Research: Image Generation & Editing
       </div>
   </div>
 </div>
@@ -299,52 +301,41 @@ Experiences
 Research & Publications
 ======
 
-My research primarily focuses on **Robot Learning** and **World Models**:
+My research focuses on **image generation and editing**, **diffusion models**, and **efficient fine-tuning**:
 
 <div class="list-item publication" data-category="publication"> 
-  <a href="https://aim-uofa.github.io/StaMo/" target="_blank" class="thumbnail"> 
-    <img src="../images/stamo.png" alt="StaMo" />
+  <a href="#" target="_blank" class="thumbnail"> 
+    <img src="../images/stamo.png" alt="ICRDrag" />
   </a>
   <div class="project-description">
-    <h3><a href="https://aim-uofa.github.io/StaMo/" target="_blank">StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation</a></h3>
-    <div class="authors">Mingyu Liu*, <b>Jiuhe Shu*</b>, Hui Chen, Zeju Li, Canyu Zhao, Jiange Yang, Shenyuan Gao, Hao Chen, Chunhua Shen</div>
-    <div class="venue">Conference on Computer Vision and Pattern Recognition (CVPR) 2026</div>
+    <h3>In-context Region-based Drag: Drag Any Region to Any Shape</h3>
+    <div class="authors"><b>Tianyu Hao*</b>, et al. (* Co-first Author)</div>
+    <div class="venue">Submitted to ECCV 2026 (CCF-B)</div>
     <p>
-      <font color="#49bf90"><i>&#9733; Highlight Presentation(3.1% in all submission) &#9733;</i></font><br>
-      <a href="https://aim-uofa.github.io/StaMo/" target="_blank">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-      <a href="https://arxiv.org/abs/2502.17157" target="_blank">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-      <a href="https://github.com/aim-uofa/StaMo" target="_blank">Code</a>
+      Proposed ICRDrag, a diffusion-based regional image dragging method under the in-context learning framework. It jointly inputs a source image, source region mask, and target region mask to achieve precise controllable editing from "any region to any shape," overcoming the ambiguity of traditional point-level drag methods. Designed two key attention regularization mechanisms: image-mask attention consistency for enhanced cross-modal alignment, and source-target attention correspondence for improved region-level semantic mapping and structural consistency. A large-scale Paired Region Dataset (PRD) was constructed for training and evaluation.
     </p>
   </div>
-</div>
-
-Contributions
-======
-
-<div class="project-item">
-<div class="project-title"><a href="https://github.com/huggingface/lerobot" target="_blank">🤗 huggingface/lerobot</a></div>
-<div class="project-meta">Contributor | GitHub 23k+ stars 🌟</div>
-<p>Contributed a PR that improved the initialization performance of DatasetReader when episodes are specified and index remapping is required, accelerating data loading efficiency during model training.</p>
-<p style="margin-top: 10px;"><a href="https://github.com/huggingface/lerobot" target="_blank">GitHub</a></p>
-</div>
-
-<div class="project-item">
-<div class="project-title"><a href="https://github.com/Hagb/docker-easyconnect" target="_blank">🐳 docker-easyconnect</a></div>
-<div class="project-meta">Contributor | GitHub 5k+ stars 🌟 | Docker Hub 100k+ downloads</div>
-<p>Contributed a PR to implement minimal chromium adaptation and integrated it into the project image, successfully solving the adaptation issue where some network tools must be logged in via the web interface, further improving the project's use cases and adaptability.</p>
-<p style="margin-top: 10px;">
-    <a href="https://github.com/Hagb/docker-easyconnect" target="_blank">GitHub</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="https://hub.docker.com/r/hagb/docker-easyconnect" target="_blank">Docker Hub</a>
-</p>
 </div>
 
 Projects
 ======
 
 <div class="project-item">
-<div class="project-title"><a href="https://www.asc-events.net/StudentChallenge/History/2025/index.html" target="_blank">🖥️ ASC Student Supercomputer Challenge</a></div>
-<div class="project-meta">ASC25 International First Prize | NWPU Supercomputing Team Captain | Dec 2024 - May 2025</div>
-<p>Fully responsible for the design and implementation of the team's technical scheme in the ASC Supercomputer Challenge. For the AlphaFold3 and DeepSeek large models, constructed a multi-node parallel inference scheme based on Google JAX pre-compile, Intel OneCCL communication library, XFT parallel framework, and vLLM inference engine. Achieved over 10x performance improvement for AlphaFold3 and ~7x inference speedup for DeepSeek on 4 CPU nodes.</p>
+<div class="project-title">🏭 Few-shot Defect Image Generation for Industrial Anomaly Detection</div>
+<div class="project-meta">Project Lead | 2025.10 - Present</div>
+<p>Designed a few-shot defect image generation method based on vision foundation models and flow matching, addressing the scarcity of defect samples in industrial anomaly detection. Formulated defect synthesis as a context-aware local editing task: a dual-branch defect feature extraction module captures fine-grained defect semantics, while a FLUX.1 Kontext-based generation pipeline combines inpaint-aware flow matching, defect feature matching, and normal region preservation constraints. A "Generate-Select-Refine" three-stage mask generation flow was proposed to improve defect-to-image alignment quality. Responsible for method design, model training, and experimental analysis.</p>
+</div>
+
+<div class="project-item">
+<div class="project-title">📜 National Invention Patent: Data Augmentation for UAV Vision-Language Navigation</div>
+<div class="project-meta">First Student Inventor | 2024.08 - 2024.11</div>
+<p>Proposed a hierarchical instruction generation model based on a two-scale graph Transformer (DUET) and a large language model to address data scarcity and low instruction quality in UAV vision-language navigation. The method uses heuristic search to generate paths, extracts multi-modal features via ViT-B/16 and BERT with a dynamic merging strategy, and leverages DUET's dual-scale visual representations with LLM contextual reasoning to generate high-quality navigation instructions. Filtered by BLEU metrics, the augmented data significantly improves instruction conciseness and key action density.</p>
+</div>
+
+<div class="project-item">
+<div class="project-title">⚡ Efficient LLM Fine-tuning under Resource Constraints</div>
+<div class="project-meta">Research Training Project | 2025.03 - 2025.06</div>
+<p>Investigated memory optimization for LLM fine-tuning in resource-constrained environments. Built a GPU memory estimation model for Decoder-only Transformers, quantifying various memory demands. Systematically surveyed LoRA, QLoRA, activation recomputation, and parameter offloading strategies from both algorithmic and system perspectives. Conducted comparative experiments with 5 fine-tuning strategies on LLaMA3.2-3B using the GSM8K dataset, evaluating memory cost, training time, and convergence quality.</p>
 </div>
 
 Honors & Awards
@@ -354,9 +345,9 @@ Honors & Awards
 
 <h3>🏆 Scholarships</h3>
 <ul>
+<li>First-Class Scholarship, NWPU (2023, 2025)</li>
+<li>Second-Class Scholarship, NWPU (2024)</li>
 <li>Tencent Special Scholarship (the only undergraduate recipient, 2025)</li>
-<li>First-Class Scholarship (2023, 2025)</li>
-<li>Second-Class Scholarship (2024)</li>
 <li>BLT Second-Class Special Scholarship (2024)</li>
 <li>Wu Yajun Third-Class Special Scholarship (2023)</li>
 </ul>
@@ -364,16 +355,18 @@ Honors & Awards
 <h3>🎖️ Honorary Titles</h3>
 <ul>
 <li>Innovation and Entrepreneurship Star (Top 10 campus-wide, 2025)</li>
+<li>Outstanding Student, NWPU (2023, 2024, 2025)</li>
 </ul>
 
 <h3>🥇 Competition Awards (Selected)</h3>
 <ul>
-<li>ASC Student Supercomputer Challenge - <span style="color: #2E5C8A;"><strong>International First Prize</strong></span> (2025)</li>
-<li>China Robotics and Artificial Intelligence Competition - <span style="color: #2E5C8A;"><strong>National First Prize</strong></span> (2025)</li>
-<li>Mathematical Contest in Modeling (MCM/ICM) - <span style="color: #2E5C8A;"><strong>First Prize / Meritorious Winner</strong></span> (2025)</li>
-<li>China International College Students' Innovation Competition - <span style="color: #2E5C8A;"><strong>National Gold Award</strong></span> (2024)</li>
-<li>Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) - National Second Prize (2024)</li>
-<li>"Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition - Provincial Special Prize (2025)</li>
+<li>Mathematical Contest in Modeling (MCM/ICM) - <span style="color: #2E5C8A;"><strong>Meritorious Winner (International First Prize)</strong></span> (2025)</li>
+<li>Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) - <span style="color: #2E5C8A;"><strong>National Second Prize</strong></span> (2024)</li>
+<li>National College Student Mathematics Competition - <span style="color: #2E5C8A;"><strong>Provincial First Prize</strong></span> (2023)</li>
+<li>"Qizhi Cup" Machine Vision Design Competition - Excellence Award (2024)</li>
+<li>ASC Student Supercomputer Challenge - International First Prize (2025)</li>
+<li>China Robotics and Artificial Intelligence Competition - National First Prize (2025)</li>
+<li>China International College Students' Innovation Competition - National Gold Award (2024)</li>
 </ul>
 
 </div>

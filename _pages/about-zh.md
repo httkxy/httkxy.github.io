@@ -222,155 +222,148 @@ author_profile: true
 </head>
 <body>
 <h1 class="main-heading">👋 Hello, World! Welcome to My Space 🚀</h1>
-<p class="update-time">last update: 2026.04</p>
+<p class="update-time">last update: 2026.05</p>
 </body>
 </html>
 
-我是一名来自[西北工业大学](https://www.nwpu.edu.cn/){:target="_blank"}计算机学院人工智能专业的大四本科生。我的研究兴趣聚焦于**世界模型**和**具身智能**。
+我是一名来自[西北工业大学](https://www.nwpu.edu.cn/){:target="_blank"}（985/211/双一流）计算机学院计算机科学与技术专业的大四本科生。将于 2026 年秋季直博保研至[上海交通大学](https://www.sjtu.edu.cn/){:target="_blank"}计算机学院，研究方向为**图像生成与编辑**。**GPA: 3.918/4.1**（专业排名 **8/192**）。**CET-6: 559**。
 
 Latest News
 ======
 
-- 📝 **[2026.04]** 我们的工作 StaMo 被选为 CVPR 2026 **Highlight**！
+- 🎓 **[2026.05]** 直博保研至**上海交通大学**计算机学院。
 
-- 🎉 **[2026.02]** 一篇工作被 **CVPR 2026 main** 接收！一篇工作被推荐至 **findings**！
+- 📝 **[2026.05]** 一篇共同第一作者论文投稿至 **ECCV 2026** (CCF-B)：ICRDrag — In-context Region-based Drag。
 
-- 🎓 **[2025.10]** 荣获**腾讯特等奖学金**（本科生唯一获奖者）、校级**双创之星**（全校 10 人）、**校优秀大学生及一等奖学金**。
+- 🥇 **[2025.02]** 在[**美国大学生数学建模竞赛**](https://www.comap.com/contests/mcm-icm){:target="_blank"}（MCM/ICM）中荣获**国际级一等奖（M奖）**。
 
-- 📍 **[2025.07]** 开始在浙江大学 [CAD&CG](http://www.cs.zju.edu.cn/csen/){:target="_blank"} 全国重点实验室的 [AIM](https://aim-uofa.github.io/){:target="_blank"} 实验室实习，师从[**陈昊**](https://stan-haochen.github.io/){:target="_blank"}研究员和[**沈春华**](https://cshen.github.io/){:target="_blank"}教授。
+- 🥈 **[2024.09]** 在[**全国大学生数学建模竞赛**](https://www.mcm.edu.cn/){:target="_blank"}（CUMCM）中荣获**国家级二等奖**。
 
-- 🥇 **[2025.07]** 在**中国机器人与人工智能大赛**（[CRIC](https://www.caairobot.com/){:target="_blank"}）全国决赛中，凭借大倾角条件下的卫星-无人机景象匹配定位算法，斩获**国家级一等奖**。
+- 🥇 **[2023.12]** 在**第15届全国大学生数学竞赛**中荣获**省级一等奖**。
+
+- 🎖️ **[2024.04]** 在"启智杯"机器视觉设计大赛中荣获**优秀奖**。
 
 
 <details markdown="1">
 <summary> 📚 更多动态 </summary>
 
-- 🏆 **[2025.05]** 作为团队负责人，带领团队在[**"挑战杯"全国大学生课外学术科技作品竞赛**](https://www.tiaozhanbei.net/){:target="_blank"}中，凭借视感定一体化视觉基座模型，荣获**省级特等奖**。
+- 🧠 **[2025.03 - 2025.06]** 完成科研训练项目：资源受限场景下的大模型微调训练技术研究与实践。建立 Decoder-only Transformer 显存开销评估模型，系统调研 LoRA/QLoRA/激活值重计算/参数卸载等方法，在 LLaMA3.2-3B 上基于 GSM8K 完成 5 种微调策略对比实验。
 
-- 🥇 **[2025.05]** 担任超算队队长，带领团队在 [**ASC 世界大学生超级计算机竞赛**](https://www.asc-events.net/StudentChallenge/index.html){:target="_blank"}决赛中取得**国际级一等奖**（全球初赛第10名、总决赛第13名）。全面负责团队任务协调、资源分配及技术方案设计，重点完成AlphaFold3与DeepSeek在CPU上的推理性能优化（分别实现 10x 和 7x 加速），并有幸向**图灵奖得主 [Jack Dongarra](https://www.netlib.org/utk/people/JackDongarra/){:target="_blank"} 教授**作技术报告。
+- 🏆 **[2025.10]** 荣获腾讯特等奖学金（本科生唯一获奖者）、校级双创之星（全校 10 人）、校优秀大学生及一等奖学金。
 
-- 🌏 **[2025.04]** 前往[**立命馆大学**](https://www.ritsumei.ac.jp/){:target="_blank"}（Ritsumeikan University）（日本·京都）参加短期访学交流活动。
+- 📍 **[2025.07]** 开始在浙江大学 CAD&CG 全国重点实验室的 AIM 实验室实习，师从陈昊研究员和沈春华教授。
 
-- 🥇 **[2025.01]** 在[**美国大学生数学建模竞赛**](https://www.comap.com/contests/mcm-icm){:target="_blank"}中，荣获**国际级一等奖（M奖）**。
+- 🥇 **[2025.07]** 在中国机器人与人工智能大赛（CRAIC）全国决赛中斩获国家级一等奖。
 
-- 🧠 **[2024.12-2025.01]** 在**西安讯飞超脑信息科技有限公司**（科大讯飞全资子公司）实习，担任**助理研究算法工程师**。参与题目语义去重任务，通过超参搜索和提示词工程，将模型零样本正确率从 63% 提升至 94%，被评为**优秀实习生**。
+- 🥇 **[2025.05]** 担任超算队队长，在 ASC 世界大学生超级计算机竞赛决赛中取得国际级一等奖。
 
-- 🎓 **[2024.12]** 荣获**校优秀大学生及二等奖学金**、**铂力特二等专项奖学金**。
+- 🌏 **[2025.04]** 前往立命馆大学（日本·京都）参加短期访学交流活动。
 
-- 🥈 **[2024.10]** 作为团队负责人，带领团队在[**中国国际大学生创新大赛（2024）**](https://cy.ncss.cn/){:target="_blank"}全国决赛中荣获**国家级银奖**。
+- 🧠 **[2024.12 - 2025.01]** 在西安讯飞超脑信息科技有限公司（科大讯飞全资子公司）实习，担任助理研究算法工程师，被评为优秀实习生。
 
-- 🥈 **[2024.09]** 在[**全国大学生数学建模竞赛**](https://www.mcm.edu.cn/){:target="_blank"}中，荣获**国家级二等奖**。
+- 🥈 **[2024.10]** 在中国国际大学生创新大赛全国决赛中荣获国家级银奖。
 
-- 🌏 **[2024.07]** 前往[**香港理工大学**](https://www.polyu.edu.hk/){:target="_blank"}（PolyU）（中国·香港）参加"数学之旅"暑期访学交流项目。
+- 🌏 **[2024.07]** 前往香港理工大学参加"数学之旅"暑期访学交流项目。
 
-- 📚 **[2024.07]** 前往西藏林芝参加"揭榜挂帅"助力祖国边疆地区高质量发展社会实践项目，获评**社会实践先进个人**，项目被推荐为**教育部优秀社会实践案例**。
+- 📚 **[2024.07]** 前往西藏林芝参加社会实践项目，获评社会实践先进个人，项目被推荐为教育部优秀社会实践案例。
 
-- 📝 **[2024.01]** 完成并提交首篇**国家发明专利**《一种用于视觉语言导航任务的数据增广方法》。
-
-- 🎓 **[2023.12]** 荣获**校优秀大学生及一等奖学金**、**吴亚军三等专项奖学金**。
+- 🎓 **[2023.12]** 荣获校优秀大学生及一等奖学金、吴亚军三等专项奖学金。
 
 </details>
 
-Experiences
+教育背景
 ======
 <div class="experience-container">
   <div class="experience-card">
-      <img src="../images/ZJU.png" alt="ZJU logo" class="experience-logo">
+      <img src="../images/NWPU.png" alt="NWPU logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://www.zju.edu.cn/" target="_blank">浙江大学</a></strong><br>
-          2025.06 - 至今<br>
-          <a href="https://aim-uofa.github.io/" target="_blank"><em>AIM Lab</em></a> 研究实习生
+          <strong><a href="https://www.nwpu.edu.cn/" target="_blank">西北工业大学</a></strong><br>
+          2022.09 - 2026.06<br>
+          计算机科学与技术 工学学士<br>
+          GPA: 3.918/4.1 (专业排名 8/192) | CET-6: 559
       </div>
   </div>
 
   <div class="experience-card">
-      <img src="../images/NWPU.png" alt="NWPU logo" class="experience-logo">
+      <img src="../images/ZJU.png" alt="SJTU logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">西北工业大学</a></strong><br>
-          2022.09 - 2026.06<br>
-          工学学士，指导教师 <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>王鹏教授</em></a>
+          <strong><a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a></strong><br>
+          2026.09 - 即将入学<br>
+          计算机学院 博士研究生<br>
+          研究方向：图像生成与编辑
       </div>
   </div>
 </div>
 
-Research & Publications
+研究发表
 ======
 
-我的研究工作主要集中在**机器人学习**和**世界模型**等方向：
+我的研究方向集中在**图像生成与编辑**、**扩散模型**以及**高效微调**等方向：
 
 <div class="list-item publication" data-category="publication"> 
-  <a href="https://aim-uofa.github.io/StaMo/" target="_blank" class="thumbnail"> 
-    <img src="../images/stamo.png" alt="StaMo" />
+  <a href="#" target="_blank" class="thumbnail"> 
+    <img src="../images/stamo.png" alt="ICRDrag" />
   </a>
   <div class="project-description">
-    <h3><a href="https://aim-uofa.github.io/StaMo/" target="_blank">StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation</a></h3>
-    <div class="authors">Mingyu Liu*, <b>Jiuhe Shu*</b>, Hui Chen, Zeju Li, Canyu Zhao, Jiange Yang, Shenyuan Gao, Hao Chen, Chunhua Shen</div>
-    <div class="venue">Conference on Computer Vision and Pattern Recognition (CVPR) 2026</div>
+    <h3>In-context Region-based Drag: Drag Any Region to Any Shape</h3>
+    <div class="authors"><b>郝天宇*</b> 等 (* 共同第一作者)</div>
+    <div class="venue">投稿至 ECCV 2026 (CCF-B)</div>
     <p>
-      <font color="#49bf90"><i>&#9733; Highlight Presentation(3.1% in all submission) &#9733;</i></font><br>
-      <a href="https://aim-uofa.github.io/StaMo/" target="_blank">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-      <a href="https://arxiv.org/abs/2502.17157" target="_blank">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-      <a href="https://github.com/aim-uofa/StaMo" target="_blank">Code</a>
+      提出 ICRDrag，一种基于扩散模型、在 in-context learning 框架下的区域级图像拖拽编辑方法，联合输入源图像、源区域掩码和目标区域掩码，实现"任意区域到任意形状"的精确可控编辑，克服传统点级拖拽的歧义性问题。设计两种关键注意力正则：图像-掩码注意力一致性增强跨模态对齐，源-目标注意力对应提升区域语义映射与结构一致性。构建大规模 Paired Region Dataset (PRD) 支持训练与评估。主要负责多种 baseline 方法的复现与对比实验、数据筛选与清洗、评估指标与用户实验设计。
     </p>
   </div>
 </div>
 
-Contributions
+项目经历
 ======
 
 <div class="project-item">
-<div class="project-title"><a href="https://github.com/huggingface/lerobot" target="_blank">🤗 huggingface/lerobot</a></div>
-<div class="project-meta">贡献者 | GitHub 23k+ stars 🌟</div>
-<p>贡献PR，当指定episodes并需要索引重新映射时，提高了DatasetReader的初始化性能，加速了模型训练过程的数据加载效率。</p>
-<p style="margin-top: 10px;"><a href="https://github.com/huggingface/lerobot" target="_blank">Code</a></p>
+<div class="project-title">🏭 面向工业缺陷检测的小样本缺陷图像生成</div>
+<div class="project-meta">项目负责人 | 2025.10 - 至今</div>
+<p>针对工业异常检测中缺陷样本稀缺的问题，设计并实现基于视觉基础模型与流匹配生成框架的小样本缺陷图像生成方法。将缺陷合成建模为上下文感知的局部编辑任务，构建双分支缺陷特征提取模块学习细粒度缺陷语义，基于 FLUX.1 Kontext 设计结合 inpaint-aware flow matching、缺陷特征匹配和正常区域保持约束的生成训练目标，提出 "Generate-Select-Refine" 三阶段掩码生成流程以提升缺陷区域与目标图像的对齐质量。主要负责方法设计、模型训练与实验分析。</p>
 </div>
 
 <div class="project-item">
-<div class="project-title"><a href="https://github.com/Hagb/docker-easyconnect" target="_blank">🐳 docker-easyconnect</a></div>
-<div class="project-meta">贡献者 | GitHub 5k+ stars 🌟 | Docker Hub 100k+ downloads</div>
-<p>贡献PR，实现chromium最小化适配并集成至项目镜像，成功解决部分网络工具必须通过web端完成登录的适配问题，进一步完善项目的使用场景和适配能力。</p>
-<p style="margin-top: 10px;">
-    <a href="https://github.com/Hagb/docker-easyconnect" target="_blank">GitHub</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="https://hub.docker.com/r/hagb/docker-easyconnect" target="_blank">Docker Hub</a>
-</p>
+<div class="project-title">📜 国家发明专利：一种用于无人机视觉语言导航任务的数据增广方法</div>
+<div class="project-meta">学生第一发明人 | 2024.08 - 2024.11</div>
+<p>针对无人机视觉语言导航任务中数据稀缺、指令质量差及长路径下关键动作稀疏等问题，提出基于双尺度图 Transformer（DUET）和大语言模型的层次化指令生成模型。通过启发式搜索生成路径，利用 ViT-B/16 和 BERT 提取多模态特征，动态合并策略减少冗余，借助 DUET 双尺度视觉表征与 LLM 上下文推理生成高质量导航指令，经 BLEU 指标筛选形成增广数据，显著提升指令简洁性与关键动作密度。</p>
 </div>
-
-Projects
-======
 
 <div class="project-item">
-<div class="project-title"><a href="https://www.asc-events.net/StudentChallenge/History/2025/index.html" target="_blank">🖥️ ASC 世界大学生超级计算机竞赛</a></div>
-<div class="project-meta">ASC25 国际级一等奖 | NWPU 超算队队长 | 2024.12 - 2025.05</div>
-<p>全面负责团队在ASC超算竞赛中的技术方案设计与实施。针对AlphaFold3与DeepSeek大模型，基于Google JAX pre-compile、Intel OneCCL通信库、XFT并行框架与vLLM推理引擎构建多节点并行推理方案，在4个CPU节点上实现AlphaFold3性能提升10倍以上、DeepSeek推理速度提升约7倍。</p>
+<div class="project-title">⚡ 资源受限场景下的大模型微调训练技术研究与实践</div>
+<div class="project-meta">科研训练项目 | 2025.03 - 2025.06</div>
+<p>围绕资源受限环境下大模型微调中的显存优化问题，深入研究高效微调方法的原理与工程实现。建立 Decoder-only Transformer 显存开销评估模型，量化各类内存需求；系统调研 LoRA、QLoRA、激活值重计算与参数卸载等主流方法，从算法和系统层面分析优缺点；基于 GSM8K 数据集在 LLaMA3.2-3B 上完成 5 种微调策略对比实验，评估各方法在显存开销、训练时长与收敛质量方面的表现。</p>
 </div>
 
-Honors & Awards
+荣誉奖项
 ======
 
 <div class="blue-box">
 
 <h3>🏆 奖学金</h3>
 <ul>
-<li>腾讯特等奖学金（本科生唯一获奖者，2025）</li>
 <li>校级一等奖学金（2023、2025）</li>
 <li>校级二等奖学金（2024）</li>
+<li>腾讯特等奖学金（本科生唯一获奖者，2025）</li>
 <li>铂力特二等专项奖学金（2024）</li>
 <li>吴亚军三等专项奖学金（2023）</li>
 </ul>
 
 <h3>🎖️ 荣誉称号</h3>
 <ul>
-<li>双创之星（全校10人，2025）</li>
+<li>双创之星（全校 10 人，2025）</li>
+<li>校优秀大学生（2023、2024、2025）</li>
 </ul>
 
 <h3>🥇 竞赛获奖（部分）</h3>
 <ul>
-<li>ASC世界大学生超级计算机竞赛 - <span style="color: #2E5C8A;"><strong>国际级一等奖</strong></span>（2025）</li>
-<li>中国机器人及人工智能大赛 - <span style="color: #2E5C8A;"><strong>国家级一等奖</strong></span>（2025）</li>
-<li>美国大学生数学建模竞赛 - <span style="color: #2E5C8A;"><strong>国际级一等奖/M奖</strong></span>（2025）</li>
-<li>中国国际大学生创新大赛 - <span style="color: #2E5C8A;"><strong>国家级金奖</strong></span>（2025）</li>
-<li>全国大学生数学建模竞赛 - 国家级二等奖（2024）</li>
-<li>"挑战杯"全国大学生课外学术科技作品竞赛 - 省级特等奖（2025）</li>
+<li>美国大学生数学建模竞赛 (MCM/ICM) - <span style="color: #2E5C8A;"><strong>国际级一等奖 / M奖</strong></span>（2025）</li>
+<li>全国大学生数学建模竞赛 (CUMCM) - <span style="color: #2E5C8A;"><strong>国家级二等奖</strong></span>（2024）</li>
+<li>第15届全国大学生数学竞赛 - <span style="color: #2E5C8A;"><strong>省级一等奖</strong></span>（2023）</li>
+<li>"启智杯"机器视觉设计大赛 - 优秀奖（2024）</li>
+<li>ASC 世界大学生超级计算机竞赛 - 国际级一等奖（2025）</li>
+<li>中国机器人及人工智能大赛 - 国家级一等奖（2025）</li>
+<li>中国国际大学生创新大赛 - 国家级金奖（2024）</li>
 </ul>
 
 </div>
