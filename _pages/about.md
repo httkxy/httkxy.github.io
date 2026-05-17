@@ -242,37 +242,10 @@ Latest News
 
 - 🥈 **[2024.09]** Won the **National Second Prize** in the Contemporary Undergraduate Mathematical Contest in Modeling ([CUMCM](https://en.mcm.edu.cn/){:target="_blank"}).
 
-- 🥇 **[2023.12]** Won the **Provincial First Prize** in the 15th National College Student Mathematics Competition.
-
 - 🎖️ **[2024.04]** Won the **Excellence Award** in the "Qizhi Cup" Machine Vision Design Competition.
 
+- 🥇 **[2023.12]** Won the **Provincial First Prize** in the 15th National College Student Mathematics Competition.
 
-<details markdown="1">
-<summary> 📚 More News </summary>
-
-- 🧠 **[2025.03 - 2025.06]** Completed a research training project on efficient LLM fine-tuning under resource constraints. Modeled GPU memory consumption for Decoder-only Transformers, analyzed LoRA/QLoRA/activation recomputation/offloading strategies, and ran comparison experiments on LLaMA3.2-3B with GSM8K across 5 fine-tuning configurations.
-
-- 🏆 **[2025.10]** Awarded the Tencent Special Scholarship (the only undergraduate recipient), university-level Innovation and Entrepreneurship Star (top 10 campus-wide), and Outstanding Student & First-Class Scholarship.
-
-- 📍 **[2025.07]** Started interning at the AIM Lab of the State Key Lab of CAD&CG at Zhejiang University, supervised by Researcher Hao Chen and Prof. Chunhua Shen.
-
-- 🥇 **[2025.07]** Won the National First Prize in the China Robotics and Artificial Intelligence Competition (CRAIC).
-
-- 🥇 **[2025.05]** Won the International First Prize at the ASC Student Supercomputer Challenge as team captain.
-
-- 🌏 **[2025.04]** Attended a short-term exchange program at Ritsumeikan University in Kyoto, Japan.
-
-- 🧠 **[2024.12 - 2025.01]** Interned as an Assistant Research Algorithm Engineer at Xi'an iFLYTEK Super Brain Information Technology Co., Ltd.
-
-- 🥈 **[2024.10]** Won the National Silver Award in the China International College Students' Innovation Competition.
-
-- 🌏 **[2024.07]** Attended the "Mathematical Journey" summer exchange program at The Hong Kong Polytechnic University.
-
-- 📚 **[2024.07]** Participated in social practice in Nyingchi, Tibet. Awarded Outstanding Individual in Social Practice (recommended as Outstanding Case by the Ministry of Education).
-
-- 🎓 **[2023.12]** Awarded Outstanding Student & First-Class Scholarship, and Wu Yajun Third-Class Special Scholarship.
-
-</details>
 
 Education
 ======
@@ -295,25 +268,6 @@ Education
           Ph.D. in Computer Science<br>
           Research: Image Generation & Editing
       </div>
-  </div>
-</div>
-
-Research & Publications
-======
-
-My research focuses on **image generation and editing**, **diffusion models**, and **efficient fine-tuning**:
-
-<div class="list-item publication" data-category="publication"> 
-  <a href="#" target="_blank" class="thumbnail"> 
-    <img src="../images/stamo.png" alt="ICRDrag" />
-  </a>
-  <div class="project-description">
-    <h3>In-context Region-based Drag: Drag Any Region to Any Shape</h3>
-    <div class="authors"><b>Tianyu Hao*</b>, et al. (* Co-first Author)</div>
-    <div class="venue">Submitted to ECCV 2026 (CCF-B)</div>
-    <p>
-      Proposed ICRDrag, a diffusion-based regional image dragging method under the in-context learning framework. It jointly inputs a source image, source region mask, and target region mask to achieve precise controllable editing from "any region to any shape," overcoming the ambiguity of traditional point-level drag methods. Designed two key attention regularization mechanisms: image-mask attention consistency for enhanced cross-modal alignment, and source-target attention correspondence for improved region-level semantic mapping and structural consistency. A large-scale Paired Region Dataset (PRD) was constructed for training and evaluation.
-    </p>
   </div>
 </div>
 

@@ -239,37 +239,10 @@ Latest News
 
 - 🥈 **[2024.09]** 在[**全国大学生数学建模竞赛**](https://www.mcm.edu.cn/){:target="_blank"}（CUMCM）中荣获**国家级二等奖**。
 
-- 🥇 **[2023.12]** 在**第15届全国大学生数学竞赛**中荣获**省级一等奖**。
-
 - 🎖️ **[2024.04]** 在"启智杯"机器视觉设计大赛中荣获**优秀奖**。
 
+- 🥇 **[2023.12]** 在**第15届全国大学生数学竞赛**中荣获**省级一等奖**。
 
-<details markdown="1">
-<summary> 📚 更多动态 </summary>
-
-- 🧠 **[2025.03 - 2025.06]** 完成科研训练项目：资源受限场景下的大模型微调训练技术研究与实践。建立 Decoder-only Transformer 显存开销评估模型，系统调研 LoRA/QLoRA/激活值重计算/参数卸载等方法，在 LLaMA3.2-3B 上基于 GSM8K 完成 5 种微调策略对比实验。
-
-- 🏆 **[2025.10]** 荣获腾讯特等奖学金（本科生唯一获奖者）、校级双创之星（全校 10 人）、校优秀大学生及一等奖学金。
-
-- 📍 **[2025.07]** 开始在浙江大学 CAD&CG 全国重点实验室的 AIM 实验室实习，师从陈昊研究员和沈春华教授。
-
-- 🥇 **[2025.07]** 在中国机器人与人工智能大赛（CRAIC）全国决赛中斩获国家级一等奖。
-
-- 🥇 **[2025.05]** 担任超算队队长，在 ASC 世界大学生超级计算机竞赛决赛中取得国际级一等奖。
-
-- 🌏 **[2025.04]** 前往立命馆大学（日本·京都）参加短期访学交流活动。
-
-- 🧠 **[2024.12 - 2025.01]** 在西安讯飞超脑信息科技有限公司（科大讯飞全资子公司）实习，担任助理研究算法工程师，被评为优秀实习生。
-
-- 🥈 **[2024.10]** 在中国国际大学生创新大赛全国决赛中荣获国家级银奖。
-
-- 🌏 **[2024.07]** 前往香港理工大学参加"数学之旅"暑期访学交流项目。
-
-- 📚 **[2024.07]** 前往西藏林芝参加社会实践项目，获评社会实践先进个人，项目被推荐为教育部优秀社会实践案例。
-
-- 🎓 **[2023.12]** 荣获校优秀大学生及一等奖学金、吴亚军三等专项奖学金。
-
-</details>
 
 教育背景
 ======
@@ -285,32 +258,13 @@ Latest News
   </div>
 
   <div class="experience-card">
-      <img src="../images/ZJU.png" alt="SJTU logo" class="experience-logo">
+      <img src="../images/SJTU.png" alt="SJTU logo" class="experience-logo">
       <div class="experience-info">
           <strong><a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a></strong><br>
           2026.09 - 即将入学<br>
           计算机学院 博士研究生<br>
           研究方向：图像生成与编辑
       </div>
-  </div>
-</div>
-
-研究发表
-======
-
-我的研究方向集中在**图像生成与编辑**、**扩散模型**以及**高效微调**等方向：
-
-<div class="list-item publication" data-category="publication"> 
-  <a href="#" target="_blank" class="thumbnail"> 
-    <img src="../images/stamo.png" alt="ICRDrag" />
-  </a>
-  <div class="project-description">
-    <h3>In-context Region-based Drag: Drag Any Region to Any Shape</h3>
-    <div class="authors"><b>郝天宇*</b> 等 (* 共同第一作者)</div>
-    <div class="venue">投稿至 ECCV 2026 (CCF-B)</div>
-    <p>
-      提出 ICRDrag，一种基于扩散模型、在 in-context learning 框架下的区域级图像拖拽编辑方法，联合输入源图像、源区域掩码和目标区域掩码，实现"任意区域到任意形状"的精确可控编辑，克服传统点级拖拽的歧义性问题。设计两种关键注意力正则：图像-掩码注意力一致性增强跨模态对齐，源-目标注意力对应提升区域语义映射与结构一致性。构建大规模 Paired Region Dataset (PRD) 支持训练与评估。主要负责多种 baseline 方法的复现与对比实验、数据筛选与清洗、评估指标与用户实验设计。
-    </p>
   </div>
 </div>
 
