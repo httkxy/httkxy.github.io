@@ -214,7 +214,7 @@ redirect_from:
 
 <div class="hero">
     <h1>Hi, I'm Tianyu Hao 👋</h1>
-    <p class="tagline">Undergrad @ <a href="https://en.nwpu.edu.cn/" target="_blank">NWPU</a> → PhD @ <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> · Image Generation &amp; Editing</p>
+    <p class="tagline">Undergrad @ <a href="https://en.nwpu.edu.cn/" target="_blank">NWPU</a> → PhD @ <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> · AIGC &amp; MLLM</p>
     <p class="update-time">last update: 2026.05</p>
 </div>
 

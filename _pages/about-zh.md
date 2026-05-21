@@ -211,7 +211,7 @@ author_profile: true
 
 <div class="hero">
     <h1>Hi, I'm Tianyu Hao 👋</h1>
-    <p class="tagline">本科 @ <a href="https://www.nwpu.edu.cn/" target="_blank">西北工业大学</a> → 博士 @ <a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a> · 图像生成与编辑</p>
+    <p class="tagline">本科 @ <a href="https://www.nwpu.edu.cn/" target="_blank">西北工业大学</a> → 博士 @ <a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a> · AIGC & MLLM</p>
     <p class="update-time">更新于 2026.05</p>
 </div>
 
