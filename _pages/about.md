@@ -225,7 +225,7 @@ Latest News
 
 - 🏭 **[2025.10 - Present]** Launched the Few-shot Defect Image Generation project as project lead.
 
-- 🎓 **[2025.10]** Recommended for direct PhD admission to **Shanghai Jiao Tong University** (SJTU); started interning at the [**BCMI Lab**](https://bcmi.sjtu.edu.cn/member.cn.html){:target="_blank"}.
+- 🎓 **[2025.10]** Recommended for direct PhD admission to **Shanghai Jiao Tong University** (SJTU); started interning at the [**BCMI Lab**](https://bcmi.sjtu.edu.cn/){:target="_blank"}.
 
 - 🧠 **[2025.03 - 2025.06]** Completed research training: efficient LLM fine-tuning under resource constraints.
 
