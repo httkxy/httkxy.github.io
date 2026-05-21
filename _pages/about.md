@@ -263,7 +263,7 @@ Education
           <strong><a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a></strong><br>
           2026.09 - Incoming<br>
           Ph.D. in Computer Science<br>
-          Research: Image Generation & Editing
+          Research: AIGC & MLLM
       </div>
   </div>
 </div>

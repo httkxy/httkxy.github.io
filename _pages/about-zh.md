@@ -260,7 +260,7 @@ Latest News
           <strong><a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a></strong><br>
           2026.09 - 即将入学<br>
           计算机学院 博士研究生<br>
-          研究方向：图像生成与编辑
+          研究方向：AIGC & MLLM
       </div>
   </div>
 </div>
