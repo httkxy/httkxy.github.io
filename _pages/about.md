@@ -214,12 +214,7 @@ redirect_from:
 
 <div class="hero">
     <h1>Hi, I'm Tianyu Hao 👋</h1>
-    <p class="tagline">CS @ <a href="https://en.nwpu.edu.cn/" target="_blank">NWPU</a> → PhD @ <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> · Image Generation &amp; Editing</p>
-    <div class="stats">
-        <div class="stat-item"><div class="stat-value">3.918<span style="font-size:0.65em;font-weight:500;">/4.1</span></div><div class="stat-label">GPA</div></div>
-        <div class="stat-item"><div class="stat-value">8<span style="font-size:0.65em;font-weight:500;">/192</span></div><div class="stat-label">Rank</div></div>
-        <div class="stat-item"><div class="stat-value">559</div><div class="stat-label">CET-6</div></div>
-    </div>
+    <p class="tagline">Undergrad @ <a href="https://en.nwpu.edu.cn/" target="_blank">NWPU</a> → PhD @ <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> · Image Generation &amp; Editing</p>
     <p class="update-time">last update: 2026.05</p>
 </div>
 
@@ -263,7 +258,7 @@ Education
   </div>
 
   <div class="experience-card">
-      <img src="../images/ZJU.png" alt="SJTU logo" class="experience-logo">
+      <img src="../images/SJTU.png" alt="SJTU logo" class="experience-logo">
       <div class="experience-info">
           <strong><a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a></strong><br>
           2026.09 - Incoming<br>
