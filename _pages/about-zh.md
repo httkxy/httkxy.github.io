@@ -212,13 +212,13 @@ author_profile: true
 <div class="hero">
     <h1>Hi, I'm Tianyu Hao 👋</h1>
     <p class="tagline">本科 @ <a href="https://www.nwpu.edu.cn/" target="_blank">西北工业大学</a> → 博士 @ <a href="https://www.sjtu.edu.cn/" target="_blank">上海交通大学</a> · AIGC & MLLM</p>
-    <p class="update-time">更新于 2026.05</p>
+    <p class="update-time">更新于 2026.06</p>
 </div>
 
 Latest News
 ======
 
-- 📝 **[2026.05]** 一篇共同第一作者论文投稿至 **ECCV 2026** (CCF-B)：In-context Region-based Drag: Drag Any Region to Any Shape
+- 📝 **[2026.06]** 一篇共同第一作者论文被 **ECCV 2026** (CCF-B) 接收：In-context Region-based Drag: Drag Any Region to Any Shape
 
 - 🏭 **[2025.10 - 至今]** 作为项目负责人，启动面向工业缺陷检测的小样本缺陷图像生成项目。
 

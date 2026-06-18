@@ -215,13 +215,13 @@ redirect_from:
 <div class="hero">
     <h1>Hi, I'm Tianyu Hao 👋</h1>
     <p class="tagline">Undergrad @ <a href="https://en.nwpu.edu.cn/" target="_blank">NWPU</a> → PhD @ <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> · AIGC &amp; MLLM</p>
-    <p class="update-time">last update: 2026.05</p>
+    <p class="update-time">last update: 2026.06</p>
 </div>
 
 Latest News
 ======
 
-- 📝 **[2026.05]** One co-first-author paper submitted to **ECCV 2026** (CCF-B): In-context Region-based Drag: Drag Any Region to Any Shape.
+- 📝 **[2026.06]** One co-first-authored paper was accepted to **ECCV 2026** (CCF-B): In-context Region-based Drag: Drag Any Region to Any Shape.
 
 - 🏭 **[2025.10 - Present]** Launched the Few-shot Defect Image Generation project as project lead.
 
